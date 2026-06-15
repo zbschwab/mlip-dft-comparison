@@ -12,3 +12,6 @@ dft-data/
 
 # generated xyz/npz files
 # model-scripts/script-data/
+
+# test case notebook
+dft-mlips-comparison.ipynb
