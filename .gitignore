@@ -4,11 +4,11 @@
 # generated plots
 *.png
 
-# notebook exports
-*.html
+# dft vasprun data
+dft-data/*
 
-# generated data
-dft-data/
+# exception: don't ignore placeholder file in dft-data/
+!dft-data/.gitkeep
 
 # generated xyz/npz files
 # model-scripts/script-data/
