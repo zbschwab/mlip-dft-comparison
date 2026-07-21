@@ -19,7 +19,9 @@ From the repository root (for each model you want to run):
 conda env create -f model-scripts/conda-envs/mlip-mace.yml
 conda env create -f model-scripts/conda-envs/mlip-mattersim.yml
 conda env create -f model-scripts/conda-envs/mlip-uma.yml
+conda env create -f model-scripts/conda-envs/mlip-nep89.yml
 ```
+**Note on NEP89:** To run this model, you must download `nep89.txt` (found [here](https://zenodo.org/records/21285022)) and place the filepath to this in the `run_nep89.py` script.
 
 ### 3. Verify installation
 
@@ -34,6 +36,7 @@ mlip
 mlip-mace
 mlip-mattersim
 mlip-uma
+mlip-nep89
 ```
 
 ### 4. Run the notebook
