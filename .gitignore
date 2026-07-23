@@ -11,7 +11,4 @@ dft-data/*
 !dft-data/.gitkeep
 
 # generated xyz/npz files
-# model-scripts/script-data/
-
-# test case notebook
-dft-mlips-comparison.ipynb
+model-scripts/script-data/
