@@ -1,6 +1,6 @@
 """
-run_mattersim.py — run in mlip-mattersim environment
-conda activate mlip-mattersim
+run_uma.py — run in mlip-mattersim environment
+conda activate mlip-uma
 """
 
 import sys
