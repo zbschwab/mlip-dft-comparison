@@ -11,10 +11,8 @@ dft-data/*
 !dft-data/.gitkeep
 
 # generated xyz/npz files
-model-scripts/script-data/*
 model-scripts/mlip-results/*
 model-scripts/dft-cache/*
 
-!model-scripts/script-data/.gitkeep
 !model-scripts/mlip-results/.gitkeep
 !model-scripts/dft-cache/.gitkeep
